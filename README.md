@@ -1,3 +1,3 @@
 # dashboard1
-Dashboard using HTML and CSS
+Dashboard using HTML and CSS,
 Author - Sakshi Priya
